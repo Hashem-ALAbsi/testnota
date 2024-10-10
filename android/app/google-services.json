@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879605651053",
+    "project_id": "rafahia-9a770",
+    "storage_bucket": "rafahia-9a770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879605651053:android:feb5219b705bfeb4a9d164",
+        "android_client_info": {
+          "package_name": "com.example.testnota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftV-3b0ekMPqIzFax7mKdIkcjyRyYGuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
